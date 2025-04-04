@@ -1,0 +1,18 @@
+{
+    "FILE": "file.xls",
+    "OUT_FILE": "output.xls",
+    "ROW_HEIGHT": 14,
+    "ROW_HEIGHT_SPECIAL": 6,
+    "COLUMN_WIDTH": 25,
+    "COLUMN_WIDTH_SPECIAL": 30,
+    "BORDER": true,
+    "TABLE": "1-2 KURS",
+    "TABLE2": "3-5 KURS",
+    "FONT1": "Times New Roman",
+    "FONT1_SIZE": 8,
+    "FONT1_BOLD": true,
+    "FONT2": "Times New Roman",
+    "FONT2_SIZE": 7.5,
+    "FONT2_BOLD": false,
+    "START_WHERE_END": false
+}
